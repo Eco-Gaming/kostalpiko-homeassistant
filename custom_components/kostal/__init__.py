@@ -20,7 +20,7 @@ from .piko_holder import PikoHolder
 
 _LOGGER = logging.getLogger(__name__)
 
-__version__ = "1.3.0"
+__version__ = "1.3.1"
 VERSION = __version__
 
 
