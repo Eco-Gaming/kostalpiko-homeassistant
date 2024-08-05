@@ -1,14 +1,12 @@
 {
-  "codeowners": [
-      "@rcasula"
-  ],
+  "codeowners": ["@rcasula", "@Haschtl", "@Eco-Gaming"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/rcasula/kostalpiko-homeassistant",
+  "documentation": "https://github.com/Eco-Gaming/kostalpiko-homeassistant",
   "domain": "kostal",
   "name": "Kostal Piko",
   "requirements": [
       "kostalpiko>=0.6"
   ],
-  "version": "1.3.0"
+  "version": "1.3.1"
 }
